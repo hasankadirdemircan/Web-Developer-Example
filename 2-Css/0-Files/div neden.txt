@@ -1,6 +1,0 @@
-elemanlarý ayný yerini çine alýp ayný özellikleri atayabilmek için
-Mesela sayfa baþlýk kýsýmlarý ortak bir div içinde
-Sayfanýn gövdesi mesela makaleler ortak bir div içinde
-Sayfanýn en altý bir div içinde kullanýlýr 
-Div'in kullaným mantýðý bu þekildedir.
-
