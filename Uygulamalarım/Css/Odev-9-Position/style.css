@@ -1,0 +1,45 @@
+
+#container {
+	width: 1140px;
+}
+
+#blog-post-container {
+	width: 75%;
+	float: left;
+}
+
+#other-posts {
+	width: 25%;
+	float: left;
+	position: fixed;
+	right: 20px;
+	top: 0;
+
+}
+#author-box {
+
+}
+
+.blog-post {
+	position: relative;
+}
+
+.date {
+	position: absolute;
+	right: 50px;
+	top: 0;
+}
+
+.tags {
+	margin: 0px;
+	padding: 0px;
+}
+
+.tags li{
+	list-style: none;
+	display: inline;
+}
+
+.tags li a {
+	text-decoration: none;
+}
