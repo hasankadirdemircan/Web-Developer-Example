@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.gallery-item {
+	width: 30%;
+	display: inline-block;
+	margin: 1.5%;
+
+	border: 1px solid #ccc;
+}
+
+.gallery-item img{
+	width: 100%;
+
+}
+
+.description {
+	text-align: center;
+	padding: 15px;
+}
+
+.gallery-item:hover {
+	border: 1px solid #777;
+}
+
